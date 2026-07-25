@@ -134,34 +134,34 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 52.203%;
+  width: 52.181%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 31.779%;
+  width: 31.820%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 7.574%;
+  width: 7.583%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 5.502%;
+  width: 5.503%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 1.372%;
+  width: 1.374%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.708%;
+  width: 0.709%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 0.210%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
-  width: 0.188%;
+  width: 0.189%;
 " class="progress-item"></span><span style="
   background-color: #083fa1; 
   width: 0.169%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.131%;
+  width: 0.097%;
 " class="progress-item"></span><span style="
   background-color: #44a51c; 
   width: 0.080%;
@@ -191,7 +191,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">52.20%</span>
+  <span class="percent">52.18%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -207,7 +207,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">31.78%</span>
+  <span class="percent">31.82%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -223,7 +223,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">7.57%</span>
+  <span class="percent">7.58%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -335,7 +335,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dockerfile</span>
-  <span class="percent">0.13%</span>
+  <span class="percent">0.10%</span>
 </li>
 <li style="animation-delay: 1650ms;">
   <svg 
