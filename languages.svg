@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 60.834%;
+  width: 60.769%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 20.719%;
+  width: 20.697%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 14.141%;
+  width: 14.170%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 2.124%;
+  width: 2.131%;
 " class="progress-item"></span><span style="
   background-color: #007800; 
   width: 0.622%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 0.420%;
+  width: 0.476%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
   width: 0.368%;
@@ -161,7 +161,7 @@ div.ellipsis {
   width: 0.130%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
-  width: 0.120%;
+  width: 0.117%;
 " class="progress-item"></span><span style="
   background-color: #1e4aec; 
   width: 0.097%;
@@ -200,7 +200,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">60.83%</span>
+  <span class="percent">60.77%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -216,7 +216,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">20.72%</span>
+  <span class="percent">20.70%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -232,7 +232,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">14.14%</span>
+  <span class="percent">14.17%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -248,7 +248,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">2.12%</span>
+  <span class="percent">2.13%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -280,7 +280,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go Template</span>
-  <span class="percent">0.42%</span>
+  <span class="percent">0.48%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
